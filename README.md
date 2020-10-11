@@ -20,7 +20,6 @@ As authentication, JWT is used to validate the user upon calling any request fro
 <h2>Requirements</h2>
 <p>Make sure you have an IDE for Java installed.<br/>
 Make sure you have installed Node >= v10.19.0 and npm >= 6.14.8 for a better compatibility.</p>
-<br/>
 <h2>Setup on machine</h2>
 <ol>
   <li>From terminal, checkout the project to your machine: <b>git clone https://github.com/edgardchamoun/toDoApp-JavaSpring-ReactJS.git</b></li>
